@@ -26,9 +26,17 @@
 
 **Soft Skills:**
 
-Excellent verbal and written communication for presenting technical information
-Effective time management in fast-paced environments
-Proven team collaboration and independent work capabilities
+Strong problem-solving skills for innovative solutions
+
+Adaptability to changing work environments and challenges
+
+Exceptional customer service with a focus on satisfaction
+
+Attention to detail for high-quality outputs
+
+Strong interpersonal skills for building relationships
+
+Leadership abilities to guide and inspire teams
 
 **🎓 Education**
 
