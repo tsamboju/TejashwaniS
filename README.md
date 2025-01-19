@@ -1,8 +1,6 @@
 # Tejashwani Samboju 
 
 
-**Samboju Tejashwani**
-
 📧 **Email**: samboju.tejashwani31@gmail.com
 
 📞 **Phone**: +1 3657790529
