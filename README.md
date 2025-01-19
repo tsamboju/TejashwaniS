@@ -86,28 +86,38 @@ Visualized insights with Tableau, aiding decision-making and reducing churn rate
 **Incident Manager**
 
 Amazon | Aug 2021 – Oct 2023 
+
 ● Managed high-severity incidents affecting critical business processes, ensuring rapid resolution 
 and minimal disruption. 
+
 ● Collaborated with cross-functional teams to analyze root causes, implement corrective actions, 
 and prevent recurrence of incidents. 
+
 ● Established incident response protocols and improved escalation workflows to enhance team 
 efficiency. 
+
 ● Delivered real-time communication to stakeholders, ensuring transparency during crises and 
 post-incident reviews. 
+
 ● Facilitated post-incident analysis sessions to identify gaps and opportunities for process 
 optimization, leading to improved incident management KPIs. 
 
 **Senior Risk Investigator**
 
 Amazon | Mar 2019 – Aug 2021 
+
 ● Led investigations into high-complexity fraud cases, leveraging advanced analytical tools and 
 methodologies to detect and resolve fraudulent activities. 
+
 ● Developed and implemented risk mitigation strategies tailored to business units, reducing 
 exposure to financial and operational risks. 
+
 ● Conducted compliance reviews in alignment with AML and internal regulatory policies, ensuring 
 adherence to global standards. 
+
 ● Mentored junior investigators by creating training programs focused on investigation techniques, 
 policy understanding, and fraud detection tools. 
+
 ● Collaborated with legal and regulatory teams to provide detailed case reports and evidence for 
 external audits and litigation purposes. 
 
@@ -116,14 +126,19 @@ Amazon | Sep 2016 – Mar 2019
 
 ● Identified, assessed, and mitigated operational and financial risks in fast-paced environments to 
 safeguard organizational integrity. 
+
 ● Conducted data-driven analysis to detect patterns, identify anomalies, and drive process 
 improvements, ensuring high-quality outcomes in alignment with regulatory compliance and best 
 practices in anti-money laundering (AML) protocols. 
+
 ● Reviewed and evaluated intricate financial transactions to detect fraud, irregularities, or 
 non-compliance with internal policies. 
+
 ● Investigated fraud on the Amazon platform and enforced seller accounts based on performance 
 and policies. 
+
 ● Reviewed invoices, brand authorization letters, and POAs of sellers and reinstated listing-level 
 and account-level actions accordingly. 
+
 ● Delivered training for new hires, focusing on inquiry writing, data analysis, and risk management 
 techniques. 
