@@ -49,35 +49,42 @@ Project Management Analytics
 
 **📂 Academic Projects**
 
-Health Care Price Tool & Insurance Price Prediction Model
+**Health Care Price Tool & Insurance Price Prediction Model**
 
 St. Clair College, ON, Canada | October 2024 – December 2024
 
-Problem: Difficulty in selecting cost-effective insurance plans due to varying user needs, medical history, and budget constraints.
-Solution:
+**Problem:** Difficulty in selecting cost-effective insurance plans due to varying user needs, medical history, and budget constraints.
+
+**Solution:**
+
 Designed and implemented a healthcare price tool with a machine learning model using Scikit-learn, achieving 15% predictive accuracy.
 Integrated the model into a Flask-based web application.
 Performed data preprocessing, feature engineering, and hyperparameter tuning to enhance performance.
 Created visualizations using Matplotlib for cost breakdowns and plan comparisons, improving user decision-making.
-Graduate Employment Statistics Analysis
+
+**Graduate Employment Statistics Analysis**
 St. Clair College, ON, Canada | January 2024 – April 2024
 
-Objective: Analyze graduate employment trends across Canada to understand the impact of education level, field of study, gender, and region on employment outcomes.
-Key Activities:
+**Objective**: Analyze graduate employment trends across Canada to understand the impact of education level, field of study, gender, and region on employment outcomes.
+**Key Activities:**
 Explored variations in median employment income based on education qualification and geographic region.
 Performed statistical analysis on gender and age group employment trends.
 Developed interactive visualizations using Python (Matplotlib, Seaborn) and Tableau to represent employment data from 2010–2014.
-Outcome: Identified actionable insights for improving graduate employability, enabling data-driven policy decisions.
-Customer Churn Prediction and Analysis
+**Outcome:** Identified actionable insights for improving graduate employability, enabling data-driven policy decisions.
+
+**Customer Churn Prediction and Analysis**
 St. Clair College, ON, Canada | October 2024 – December 2024
 
-Problem: High customer churn rates affecting revenue and retention strategies.
-Solution:
+**Problem:** High customer churn rates affecting revenue and retention strategies.
+**Solution:**
 Implemented a Python-based churn prediction model using historical customer data.
 Utilized machine learning algorithms and feature engineering to improve churn prediction accuracy by 15%.
 Visualized insights with Tableau, aiding decision-making and reducing churn rates by over 20% through targeted retention initiatives.
-💼 Experience
-Incident Manager 
+
+**💼 Experience**
+
+**Incident Manager**
+
 Amazon | Aug 2021 – Oct 2023 
 ● Managed high-severity incidents affecting critical business processes, ensuring rapid resolution 
 and minimal disruption. 
@@ -89,7 +96,9 @@ efficiency.
 post-incident reviews. 
 ● Facilitated post-incident analysis sessions to identify gaps and opportunities for process 
 optimization, leading to improved incident management KPIs. 
-Senior Risk Investigator 
+
+**Senior Risk Investigator**
+
 Amazon | Mar 2019 – Aug 2021 
 ● Led investigations into high-complexity fraud cases, leveraging advanced analytical tools and 
 methodologies to detect and resolve fraudulent activities. 
@@ -101,8 +110,10 @@ adherence to global standards.
 policy understanding, and fraud detection tools. 
 ● Collaborated with legal and regulatory teams to provide detailed case reports and evidence for 
 external audits and litigation purposes. 
-Risk Investigator 
+
+**Risk Investigator**
 Amazon | Sep 2016 – Mar 2019 
+
 ● Identified, assessed, and mitigated operational and financial risks in fast-paced environments to 
 safeguard organizational integrity. 
 ● Conducted data-driven analysis to detect patterns, identify anomalies, and drive process 
