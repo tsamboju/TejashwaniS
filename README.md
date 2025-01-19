@@ -1,13 +1,13 @@
 # TejashwaniS
 
 
-**Samboju Tejashwani
-**📧 Email: samboju.tejashwani31@gmail.com
-📞 Phone: +1 3657790529
-📍 Location: Windsor, ON, N9A 6G5
-🔗 https://www.linkedin.com/in/samboju-tejashwani-a68a7b42/
-🛠 Skills
-Programming Languages: Python, SQL, Excel
+****Samboju Tejashwani**
+**📧 **Email**: samboju.tejashwani31@gmail.com
+📞 **Phone**: +1 3657790529
+📍 **Location**: Windsor, ON, N9A 6G5
+****🔗 https://www.linkedin.com/in/samboju-tejashwani-a68a7b42/
+******🛠 Skills
+**Programming Languages: Python, SQL, Excel
 Data Analysis Libraries: NumPy, Pandas, Matplotlib, Seaborn
 Machine Learning: Scikit-Learn, TensorFlow, Keras
 Database Management: MySQL, SQL Server
